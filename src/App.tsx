@@ -1,5 +1,11 @@
+import Home from "./Sections/Home";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Home></Home>
+    </>
+  );
 }
 
 export default App;
