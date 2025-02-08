@@ -14,6 +14,11 @@ function About() {
           accusantium saepe, doloribus optio mollitia sunt repellendus dolorum
           maiores deserunt facere sapiente sed inventore itaque.
         </p>
+        <div className="flex justify-center">
+          <button className="bg-orange-400 text-white text-[1.5em] py-1 px-6 rounded-2xl mb-10 w-[10%] text-lg shadow-md shadow-cyan-500">
+            Resume
+          </button>
+        </div>
       </div>
     </>
   );
