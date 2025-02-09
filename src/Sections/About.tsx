@@ -1,7 +1,7 @@
 function About() {
   return (
     <>
-      <div className="mt-[8%]">
+      <div className="my-[9%]">
         <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
           About Me
         </h2>
