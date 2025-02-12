@@ -16,7 +16,11 @@ function About() {
           my guitar and unwind with music. Checkout my resume below!
         </p>
         <div className="flex justify-center">
-          <button className="bg-orange-400 text-white text-[1.5em] py-1 px-6 rounded-2xl mb-10 w-[10%] text-lg shadow-md shadow-cyan-500 transition-transform duration-200 ease-in-out hover:scale-105"></button>
+          <button className="bg-orange-400 text-white text-[1.5em] py-1 px-0 rounded-2xl mb-10 w-[10%] text-lg shadow-md shadow-cyan-500 transition-transform duration-200 ease-in-out hover:scale-105">
+            <a href="https://drive.google.com/file/d/1sqChs71asq3QC2JHuuThW7W2xquaRLuN/view?usp=sharing">
+              Resume
+            </a>
+          </button>
         </div>
       </div>
     </>
