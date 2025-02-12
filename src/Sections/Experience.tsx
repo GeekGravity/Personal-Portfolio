@@ -4,13 +4,13 @@ function Experience() {
       Title: "Data Analyst Intern",
       Date: "January '25 - Present",
       Description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam ab ex dolor recusandae. Magni, corporis! Iusto earum officia repellat quae explicabo expedita dolor, iure quas consequuntur? Sed distinctio facilis eos! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem, ab expedita, aliquam nihil accusamus dolor in maiores quam facilis beatae illo voluptas sed excepturi repellendus? Nam accusantium ea inventore veniam?",
+        "As a Data Science Research Assistant, I collaborate with a Professor at SFU to develop a sample size estimation model analyzing the correlation between soccer players' critical speed and temperature. My work involves coding in R, running simulations, and refining statistical models. I also attend regular meetings to discuss progress and ensure accurate data analysis.",
     },
     {
       Title: "VP of Innovations",
       Date: "Ocotober '25 - Present",
       Description:
-        " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem, ab expedita, aliquam nihil accusamus dolor in maiores quam facilis beatae illo voluptas sed excepturi repellendus? Nam accusantium ea inventore veniam? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem, ab expedita, aliquam nihil accusamus dolor in maiores quam facilis beatae illo voluptas sed excepturi repellendus? Nam accusantium ea inventore veniam?",
+        " As VP of Innovations at NeuraXtension, SFU's neurotechnology club, I lead the club's innovation efforts by organizing workshops on neurotechnology devices and projects. I also help plan field trips to research labs and industry facilities, giving members hands-on exposure to the field. Beyond this, I collaborate with the team to drive engagement and expand the club’s impact.",
     },
   ];
 

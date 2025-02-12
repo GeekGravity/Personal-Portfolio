@@ -5,9 +5,9 @@ function Home() {
     <>
       <div className="grid grid-cols-3 gap-4 mx-auto mb-[13%]">
         <h1 className="col-span-2 mt-[400px] mx-20 text-[9rem] text-orange-400 leading-[160px]">
-          <span className="text-white">&lt; </span> NICE TO
+          <span className="text-white">&lt; </span> WELCOME
           <br />
-          &nbsp;MEET YOU! <span className="text-white"> / &gt;</span>
+          &nbsp;TO MY SPACE! <span className="text-white"> / &gt;</span>
         </h1>
         <img
           src={profilePic}
