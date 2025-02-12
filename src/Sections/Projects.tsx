@@ -6,7 +6,7 @@ import REMSImg from "../Pictures/REMS-ss.png";
 function Projects() {
   return (
     <>
-      <div id="projects" className="mt-[4%]">
+      <div id="projects" className="mt-[4%] scroll-mt-30">
         <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
           My Projects
         </h2>
