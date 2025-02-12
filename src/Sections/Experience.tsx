@@ -17,7 +17,7 @@ function Experience() {
   return (
     <>
       <div id="experience" className="my-[9%] scroll-mt-30">
-        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
+        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400 font-lexend">
           Work Experience
         </h2>
         <div className="flex justify-center pt-15">
@@ -31,8 +31,8 @@ function Experience() {
                   <h3 className="text-[2.5rem] text-white font-bold">
                     {role.Title}
                   </h3>
-                  <p className="text-[1.5rem] text-orange-400">{role.Date}</p>
-                  <p className=" py-10 text-2xl text-white">
+                  <p className="text-[1.5rem] text-orange-400 ">{role.Date}</p>
+                  <p className=" py-10 text-2xl text-white font-lexend font-light">
                     {role.Description}
                   </p>
                 </section>
