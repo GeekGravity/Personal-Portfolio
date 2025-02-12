@@ -10,10 +10,10 @@ function Projects() {
         <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
           My Projects
         </h2>
-        <p className="flex text-center px-140 py-12 text-2xl text-white ">
+        <p className="flex text-center px-[22%] pb-15 pt-10 text-2xl text-white ">
           Here are some of the projects I've worked on, from AI-driven
-          accessibility tools to interactive learning apps. I love building
-          innovative solutions that make an impact—check them out below!
+          accessibility tools to interactive learning apps. Check them out
+          below!
         </p>
         <div className="flex justify-center">
           <a href="https://github.com/notjamesw/AccessBuddy">

@@ -20,7 +20,7 @@ function Experience() {
         <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
           Work Experience
         </h2>
-        <div className="flex justify-center py-20">
+        <div className="flex justify-center pt-15">
           <div className="h-[400px] text-center px-12 overflow-y-scroll snap-y snap-mandatory no-scrollbar">
             {roles.map((role, index) => {
               return (
