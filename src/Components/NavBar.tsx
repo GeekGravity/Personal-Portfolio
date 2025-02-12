@@ -26,15 +26,15 @@ function NavBar() {
 
   return (
     <>
-      <div className="flex flex-row pt-12 ">
+      <div id="nav" className="flex flex-row pt-12 ">
         <img src={logo} className="w-[120px] absolute left-10 py-1"></img>
         <nav className=" fixed top-12 left-1/2 -translate-x-1/2 w-[550px] mx-auto rounded-[30px] bg-orange-500 shadow-md shadow-cyan-500 z-40">
           <ul className="flex flex-row justify-center py-3 text-white ">
             <li className="px-6 pb-1 text-lg">
               <a
-                href="#home"
+                href="#nav"
                 className={`hover:underline underline-offset-5 decoration-2 ${
-                  navSection === "home"
+                  navSection === "nav"
                     ? "underline underline-offset-5 decoration-2"
                     : ""
                 }`}
@@ -83,6 +83,20 @@ function NavBar() {
             </li>
           </ul>
         </nav>
+        <div>
+          <a
+            href="https://www.linkedin.com/in/mathews-jaison-19729924a/l"
+            className="fa-linkedin fa-brands text-white text-2xl absolute right-10 py-4 mr-10"
+          ></a>
+          <a
+            href="https://github.com/GeekGravity"
+            className="fa-github fa-brands text-white text-2xl absolute right-20 py-4 mr-10"
+          ></a>
+          <a
+            href="mailto:mja123@sfu.ca"
+            className="fa-envelope fa-solid text-white text-2xl absolute right-30 py-4 mr-10"
+          ></a>
+        </div>
       </div>
     </>
   );
