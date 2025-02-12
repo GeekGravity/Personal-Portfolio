@@ -12,13 +12,11 @@ function About() {
           development and data analysis. My technical expertise includes Python,
           C++, SQL, JavaScript, React, Node.js, and Tailwind CSS. Beyond coding,
           I thrive on competition—whether it's playing table tennis or following
-          the thrilling world of Formula 1. When I need a break from the screen,
-          I pick up my guitar and unwind with music. Checkout my resume below!
+          the world of Formula 1. When I need a break from the screen, I pick up
+          my guitar and unwind with music. Checkout my resume below!
         </p>
         <div className="flex justify-center">
-          <button className="bg-orange-400 text-white text-[1.5em] py-1 px-6 rounded-2xl mb-10 w-[10%] text-lg shadow-md shadow-cyan-500">
-            Resume
-          </button>
+          <button className="bg-orange-400 text-white text-[1.5em] py-1 px-6 rounded-2xl mb-10 w-[10%] text-lg shadow-md shadow-cyan-500 transition-transform duration-200 ease-in-out hover:scale-105"></button>
         </div>
       </div>
     </>
