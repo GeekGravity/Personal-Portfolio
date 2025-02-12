@@ -15,7 +15,7 @@ function Projects() {
         </p>
         <div className="flex justify-center">
           <a href="https://netflix.com">
-            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-500 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
+            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={projectImg} className="w-full h-[70%]"></img>
               <div className=" px-2 py-1 text-white text-[1.5em] text-lg">
                 Neurotechnology Club Website
@@ -23,7 +23,7 @@ function Projects() {
             </div>
           </a>
           <a href="https://netflix.com">
-            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-500 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
+            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={projectImg} className="w-full h-[70%]"></img>
               <div className=" px-2 py-1 text-white text-[1.5em] text-lg">
                 Neurotechnology Club Website
@@ -33,7 +33,7 @@ function Projects() {
         </div>
         <div className="flex justify-center">
           <a href="https://netflix.com">
-            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-500 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
+            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={projectImg} className="w-full h-[70%]"></img>
               <div className=" px-2 py-1 text-white text-[1.5em] text-lg">
                 Neurotechnology Club Website
@@ -41,7 +41,7 @@ function Projects() {
             </div>
           </a>
           <a href="https://netflix.com">
-            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-500 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
+            <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={projectImg} className="w-full h-[70%]"></img>
               <div className=" px-2 py-1 text-white text-[1.5em] text-lg">
                 Neurotechnology Club Website

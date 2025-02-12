@@ -21,11 +21,6 @@ function Experience() {
           Work Experience
         </h2>
         <div className="flex justify-center py-20">
-          <div className="bg-white">
-            <button>
-              <a href="#role-0"> Hi sidhfoishdifh </a>
-            </button>
-          </div>
           <div className="h-[400px] text-center px-12 overflow-y-scroll snap-y snap-mandatory no-scrollbar">
             {roles.map((role, index) => {
               return (
