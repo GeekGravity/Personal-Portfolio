@@ -23,7 +23,7 @@ function Projects() {
                 className="object-cover object-[50%_62%] w-full h-[65%]"
               ></img>
               <div className="bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
-                <h5 className="font-lexend font-medium pt-1 text-white">
+                <h5 className="font-lexend font-medium pt-1 text-white underline underline-offset-3 decoration-orange-400">
                   Access Buddy
                 </h5>
                 <p className="text-[0.7em] text-sm pt-3 font-lexend font-light leading-[20px] text-white">
@@ -37,7 +37,7 @@ function Projects() {
             <div className="bg-[#182848] mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={NeuraXtensionImg} className="w-full h-[65%]"></img>
               <div className=" bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
-                <h5 className="font-lexend font-medium pt-1 text-white">
+                <h5 className="font-lexend font-medium pt-1 text-white underline underline-offset-3 decoration-orange-400">
                   NeuraXtension Website
                 </h5>
                 <p className="text-[0.7em] text-sm pt-3 font-lexend font-light leading-[20px] text-white">
@@ -53,7 +53,7 @@ function Projects() {
             <div className="bg-[#182848] mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={REMSImg} className="w-full h-[65%]"></img>
               <div className=" bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
-                <h5 className="font-lexend font-medium pt-1 text-white">
+                <h5 className="font-lexend font-medium pt-1 text-white underline underline-offset-3 decoration-orange-400">
                   Q-Properties
                 </h5>
                 <p className="text-[0.7em] text-sm pt-3 font-lexend font-light leading-[20px] text-white">
@@ -70,7 +70,7 @@ function Projects() {
                 className="object-cover w-full h-[65%] object-[50%_10%]"
               ></img>
               <div className=" bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
-                <h5 className="font-lexend font-medium pt-1 text-white">
+                <h5 className="font-lexend font-medium pt-1 text-white underline underline-offset-3 decoration-orange-400">
                   Blackfoot Language Learning App
                 </h5>
                 <p className="text-[0.7em] text-sm pt-3 font-lexend font-light leading-[20px] text-white">
