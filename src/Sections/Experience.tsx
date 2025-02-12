@@ -17,7 +17,7 @@ function Experience() {
   return (
     <>
       <div id="experience" className="my-[9%] scroll-mt-30">
-        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
+        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400 font-lexend">
           Work Experience
         </h2>
         <div className="flex justify-center pt-15">

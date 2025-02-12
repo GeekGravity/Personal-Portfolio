@@ -2,7 +2,7 @@ function About() {
   return (
     <>
       <div id="about" className="my-[9%] scroll-mt-30">
-        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
+        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400 font-lexend">
           About Me
         </h2>
         <p className="flex text-center px-[25%] py-12 text-2xl text-white ">

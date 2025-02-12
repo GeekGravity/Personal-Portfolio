@@ -7,7 +7,7 @@ function Projects() {
   return (
     <>
       <div id="projects" className="mt-[4%] scroll-mt-30">
-        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
+        <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400 font-lexend">
           My Projects
         </h2>
         <p className="flex text-center px-[22%] pb-15 pt-10 text-2xl text-white ">

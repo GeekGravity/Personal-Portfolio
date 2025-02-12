@@ -34,7 +34,7 @@ function NavBar() {
               <a
                 href="#nav"
                 className={`hover:underline underline-offset-5 decoration-2 ${
-                  navSection === "nav"
+                  navSection === "home"
                     ? "underline underline-offset-5 decoration-2"
                     : ""
                 }`}
