@@ -4,14 +4,14 @@ function Home() {
   return (
     <>
       <div id="home" className="grid grid-cols-3 gap-4 mx-auto mb-[13%]">
-        <h1 className="col-span-2 mt-[400px] mx-20 text-[9rem] text-orange-400 leading-[160px]">
+        <h1 className="col-span-2 mt-[55vh] ml-10 text-8xl  text-orange-400 leading-tight">
           <span className="text-white">&lt; </span> WELCOME
           <br />
           &nbsp;TO MY SPACE! <span className="text-white"> / &gt;</span>
         </h1>
         <img
           src={profilePic}
-          className="w-[400px] mt-[200px] mx-4 border-5 rounded-md border-white shadow-lg shadow-cyan-500"
+          className="w-[70%] mt-[35%] ml-5 border-5 rounded-md border-white shadow-lg shadow-cyan-500"
         ></img>
       </div>
     </>

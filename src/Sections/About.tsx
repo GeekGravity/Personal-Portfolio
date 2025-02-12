@@ -5,7 +5,7 @@ function About() {
         <h2 className="flex justify-center text-[5rem] text-white underline underline-offset-12 decoration-orange-400">
           About Me
         </h2>
-        <p className="flex text-center px-160 py-12 text-2xl text-white ">
+        <p className="flex text-center px-[25%] py-12 text-2xl text-white ">
           Hey there! I'm Mathews Jaison and I'm a second-year Computer Science
           student at Simon Fraser University, with a strong passion for building
           innovative software solutions. I enjoy working on full-stack web
