@@ -1,7 +1,7 @@
 function Experience() {
   const roles = [
     {
-      Title: "Data Analyst Intern",
+      Title: "Data Science Research Assistant",
       Date: "January '25 - Present",
       Description:
         "As a Data Science Research Assistant, I collaborate with a Professor at SFU to develop a sample size estimation model analyzing the correlation between soccer players' critical speed and temperature. My work involves coding in R, running simulations, and refining statistical models. I also attend regular meetings to discuss progress and ensure accurate data analysis.",

@@ -16,7 +16,7 @@ function Projects() {
           innovative solutions that make an impact—check them out below!
         </p>
         <div className="flex justify-center">
-          <a href="https://netflix.com">
+          <a href="https://github.com/notjamesw/AccessBuddy">
             <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img
                 src={AccessImg}
@@ -31,7 +31,7 @@ function Projects() {
               </div>
             </div>
           </a>
-          <a href="https://netflix.com">
+          <a href="https://github.com/GeekGravity/NeuraXtension">
             <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={NeuraXtensionImg} className="w-full h-[65%]"></img>
               <div className=" px-2 py-1 text-white text-[1.5em] text-lg">
@@ -45,19 +45,19 @@ function Projects() {
           </a>
         </div>
         <div className="flex justify-center">
-          <a href="https://netflix.com">
+          <a href="https://github.com/GeekGravity/Q-Properties">
             <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img src={REMSImg} className="w-full h-[65%]"></img>
               <div className=" px-2 pb-1 text-white text-[1.5em] text-lg">
-                <h5>Real Estate Managment Software</h5>
+                <h5>Q-Properties</h5>
                 <p className="text-[0.7em] text-sm">
-                  A property listing app built for filtering and managing
-                  listings.
+                  A real estate managment software built for filtering and
+                  managing property listings in Qatar.
                 </p>
               </div>
             </div>
           </a>
-          <a href="https://netflix.com">
+          <a href="https://github.com/GeekGravity/Language-Learning-App">
             <div className="bg-gray-500 mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img
                 src={BlackfootImg}
