@@ -11,6 +11,7 @@ function Home() {
         </h1>
         <img
           src={profilePic}
+          alt="Photo of Mathews on a hike"
           className="w-[70%] mt-[35%] ml-5 border-5 rounded-md border-white shadow-lg shadow-cyan-500"
         ></img>
       </div>
