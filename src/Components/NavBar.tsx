@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import logo from "../Pictures/temp-logo.png";
+import logo from "../Pictures/logo.png";
 
 function NavBar() {
   const [navSection, setNavSection] = useState("");
