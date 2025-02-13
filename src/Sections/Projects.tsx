@@ -19,6 +19,7 @@ function Projects() {
             <div className="bg-[#182848] mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img
                 src={AccessImg}
+                alt="Project image"
                 className="object-cover object-[50%_62%] w-full h-[65%]"
               ></img>
               <div className="bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
@@ -34,7 +35,11 @@ function Projects() {
           </a>
           <a href="https://github.com/GeekGravity/NeuraXtension">
             <div className="bg-[#182848] mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
-              <img src={NeuraXtensionImg} className="w-full h-[65%]"></img>
+              <img
+                src={NeuraXtensionImg}
+                alt="Project image"
+                className="w-full h-[65%]"
+              ></img>
               <div className=" bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
                 <h5 className="font-lexend font-medium pt-1 text-white underline underline-offset-3 decoration-orange-400">
                   NeuraXtension Website
@@ -50,7 +55,11 @@ function Projects() {
         <div className="flex justify-center">
           <a href="https://github.com/GeekGravity/Q-Properties">
             <div className="bg-[#182848] mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
-              <img src={REMSImg} className="w-full h-[65%]"></img>
+              <img
+                src={REMSImg}
+                alt="Project image"
+                className="w-full h-[65%]"
+              ></img>
               <div className=" bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
                 <h5 className="font-lexend font-medium pt-1 text-white underline underline-offset-3 decoration-orange-400">
                   Q-Properties
@@ -66,6 +75,7 @@ function Projects() {
             <div className="bg-[#182848] mx-6 mb-12 rounded-lg w-[450px] h-[325px] transition-transform duration-200 ease-in-out hover:scale-105 border-[5px] border-white shadow-lg shadow-cyan-500">
               <img
                 src={BlackfootImg}
+                alt="Project image"
                 className="object-cover w-full h-[65%] object-[50%_10%]"
               ></img>
               <div className=" bg-[#182848] pl-3 pb-1 text-white text-[1.5em] text-lg">
