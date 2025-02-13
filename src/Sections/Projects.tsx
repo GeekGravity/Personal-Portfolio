@@ -11,9 +11,8 @@ function Projects() {
           My Projects
         </h2>
         <p className="flex text-center px-[22%] pb-15 pt-10 text-2xl text-white font-lexend font-light">
-          Here are some of the projects I've worked on, from AI-driven
-          accessibility tools to interactive learning apps. Check them out
-          below!
+          Here are some projects I've worked on, from AI-driven accessibility
+          tools to interactive learning apps. Check them out below!
         </p>
         <div className="flex justify-center">
           <a href="https://github.com/notjamesw/AccessBuddy">
@@ -57,7 +56,7 @@ function Projects() {
                   Q-Properties
                 </h5>
                 <p className="text-[0.7em] text-sm pt-3 font-lexend font-light leading-[20px] text-white">
-                  A real estate managment software built for filtering and
+                  A real estate management software built for filtering and
                   managing property listings in Qatar.
                 </p>
               </div>
@@ -74,7 +73,7 @@ function Projects() {
                   Blackfoot Language Learning App
                 </h5>
                 <p className="text-[0.7em] text-sm pt-3 font-lexend font-light leading-[20px] text-white">
-                  An interactive flashcard app using to teach the Blackfoot
+                  An interactive flashcard app used to teach the Blackfoot
                   language.
                 </p>
               </div>

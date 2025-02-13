@@ -8,7 +8,7 @@ function Experience() {
     },
     {
       Title: "VP of Innovations",
-      Date: "Ocotober '25 - Present",
+      Date: "Ocotober '24 - Present",
       Description:
         " As VP of Innovations at NeuraXtension, SFU's neurotechnology club, I lead the club's innovation efforts by organizing workshops on neurotechnology devices and projects. I also help plan field trips to research labs and industry facilities, giving members hands-on exposure to the field. Beyond this, I collaborate with the team to drive engagement and expand the club’s impact.",
     },
