@@ -89,7 +89,7 @@ function NavBar() {
         </nav>
         <div>
           <a
-            href="https://www.linkedin.com/in/mathews-jaison-19729924a/l"
+            href="https://www.linkedin.com/in/mathews-jaison-19729924a"
             className="fa-linkedin fa-brands text-white text-2xl absolute right-10 py-4 mr-10"
           ></a>
           <a
